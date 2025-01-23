@@ -17,8 +17,7 @@
       "options": ["1. China", "2. India", "3. Japan", "4. Thailand"],
       "correctOption": "Japan"
     },
-    {
-      "id": 4,
+    { "id": 4,
       "question": "What is the capital of Australia?",
       "options": ["1. Sydney", "2. Melbourne", "3. Canberra", "4. Brisbane"],
       "correctOption": "Canberra"
