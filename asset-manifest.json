@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quizzapp/static/css/main.c8f24c35.css",
+    "main.js": "/quizzapp/static/js/main.8ab69ec9.js",
+    "static/media/bg.jpg": "/quizzapp/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/correct.mp3": "/quizzapp/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/quizzapp/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/quizzapp/index.html",
+    "main.c8f24c35.css.map": "/quizzapp/static/css/main.c8f24c35.css.map",
+    "main.8ab69ec9.js.map": "/quizzapp/static/js/main.8ab69ec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f24c35.css",
+    "static/js/main.8ab69ec9.js"
+  ]
+}
